@@ -1,7 +1,7 @@
 # incubyte-string-calculator
-Start with the simplest test case of an empty string and move to one and two numbers.__
-Input: a string of comma-separated numbers.__
-Output: an integer, sum of the numbers__
+Start with the simplest test case of an empty string and move to one and two numbers.  
+Input: a string of comma-separated numbers.  
+Output: an integer, sum of the numbers  
 
 # Examples:
 Input: “”, Output: 0
